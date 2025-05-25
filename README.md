@@ -30,7 +30,7 @@ A modern and feature-rich notes application built with Flutter that allows users
 https://github.com/user-attachments/assets/e40cd7fe-7223-4ae6-9b19-cc5dce42d183
 
 ## Live Link
-https://68339f7947913fc5691c8bbe--celadon-valkyrie-27ff16.netlify.app/
+https://68339f7947913fc5691c8bbe--celadon-valkyrie-27ff16.netlify.app/  
 Note : Since SQLite works as local database so database will not work on web. You can run it as a Mobile App or on an emulator.
 
 
