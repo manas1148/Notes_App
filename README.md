@@ -40,7 +40,7 @@ A modern and feature-rich notes application built with Flutter that allows users
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/manas1148/Notes_App.git
 ```
 
 2. Navigate to project directory
@@ -81,7 +81,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 ## 👤 Author
 
 Manas Rai Kaushik
-- GitHub: manas1148
+- GitHub: github.com/manas1148/
 - LinkedIn: https://www.linkedin.com/in/manas-rai-kaushik-1b4200242/
 
 ## ⭐ Show your support
