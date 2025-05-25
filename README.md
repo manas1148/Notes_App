@@ -46,7 +46,7 @@ git clone https://github.com/manas1148/Notes_App.git
 
 2. Navigate to project directory
 ```bash
-cd flutter-notes-app-1
+cd flutter-Notes App
 ```
 
 3. Install dependencies
