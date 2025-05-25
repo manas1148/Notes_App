@@ -22,7 +22,7 @@ A modern and feature-rich notes application built with Flutter that allows users
 
 ## 📱 Screenshots
 
-[Add your app screenshots here]
+![Image](https://github.com/user-attachments/assets/e7372b88-27e6-470e-bb5d-d0c41d9c7004)
 
 ## 🎥 Demo Video
 
