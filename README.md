@@ -30,7 +30,7 @@ A modern and feature-rich notes application built with Flutter that allows users
 https://github.com/user-attachments/assets/e40cd7fe-7223-4ae6-9b19-cc5dce42d183
 
 ## Live Link
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c240c273-45c7-49f0-821c-7d393527e2d1/deploy-status)](https://app.netlify.com/projects/notes-app-flutter/deploys)
+https://68339f7947913fc5691c8bbe--celadon-valkyrie-27ff16.netlify.app/
 
 ## 🚀 Getting Started 
 
